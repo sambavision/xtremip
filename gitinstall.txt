@@ -1,0 +1,8 @@
+###Git install###
+
+vi /etc/hostname
+repo.dev.visionip.tv
+apt-get update
+apt-get upgrade
+mkdir /var/www/repos
+apt-get install git
